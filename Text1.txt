@@ -1,0 +1,4 @@
+Cyclops
+Ghoul
+Skeleton_Bandit
+Ghastly_figure
